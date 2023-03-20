@@ -1,0 +1,27 @@
+.cabecalho
+{
+    background-color:aqua
+}
+h1{
+    text-align: center
+}
+h2{
+    background-color: blueviolet;
+}
+.imagem {
+    width: 20px;
+    background-image: linear-gradient();
+}
+p{
+    font-size: 18px;
+}
+.paragrafo1 {
+    font-size:30px;
+}
+.paragrafos{ 
+    font-size: 16px;
+}
+.lista {
+    .divisao{
+        background-color: aqua
+}
